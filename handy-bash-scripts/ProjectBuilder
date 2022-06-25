@@ -1,0 +1,5 @@
+npm init @vitejs/app
+npm install three
+cd vite-project
+npm install
+npm run dev
